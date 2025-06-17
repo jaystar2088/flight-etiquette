@@ -1,1 +1,3 @@
-# flight-etiquette
+# Flight Etiquette
+## Apprpriate Number of Times to Leave Seat on a 6 Hour Long Flight
+For this data visualization project, I used data from **FiveThirtyEight** which recorded respondents' answers to various questions related to flight etiquette. I chose to create a bar chart visualizing answers to the question: _On a 6 hour flight from NYC to LA, how many times is it acceptable to get up if you're not in an aisle seat?_ I found this question most interesting because I recently traveled a similar distance from SFO to YYZ and was asked to stand approximately three times so the lady sitting next to me could use the restroom. She was super apologetic for inconveniencing me, but I reassured her that it was no big deal, and I'd happily stand as many times as reasonably necessary. 
